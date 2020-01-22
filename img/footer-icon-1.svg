@@ -1,0 +1,33 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 416 416">
+    <defs>
+        <style>
+            .cls-1{fill:#e36a5c}.cls-2{fill:#6dbec4}.cls-3{fill:#fff}.cls-4{fill:#242c3c}.cls-5{fill:#2b3a49}.cls-6{fill:#efeeee}.cls-7{fill:#abadb3}.cls-8{fill:#f0b14e}.cls-9{fill:#c2c3c6}.cls-10{fill:#df5444}
+        </style>
+    </defs>
+    <title>Vector Smart Object2</title>
+    <circle class="cls-1" cx="208" cy="208" r="208"/>
+    <path class="cls-2" d="M3857 1012.67a9.69 9.69 0 0 0-9.67-9.67H3596a9.69 9.69 0 0 0-9.67 9.67v145H3857v-145z"
+          transform="translate(-3513.63 -911)"/>
+    <path class="cls-1" d="M92 111.33h232v116H92z"/>
+    <path class="cls-3" d="M92 111.33h135.33v116H92z"/>
+    <path class="cls-4" d="M227.33 111.33H324V150h-96.67z"/>
+    <path class="cls-2" d="M227.33 145.17h105.13v9.67H227.33z"/>
+    <path class="cls-2" d="M222.5 106.5h9.67v125.67h-9.67z"/>
+    <path class="cls-4"
+          d="M3847.3 1012.67V1148H3596v-135.33h251.3zm0-9.67H3596a9.69 9.69 0 0 0-9.67 9.67v145H3857v-145a9.69 9.69 0 0 0-9.67-9.67z"
+          transform="translate(-3513.63 -911)"/>
+    <circle class="cls-5" cx="208" cy="266" r="4.83"/>
+    <path class="cls-3" d="M3586.3 1157.67v29a9.69 9.69 0 0 0 9.67 9.67h251.33a9.69 9.69 0 0 0 9.67-9.67v-29H3586.3z"
+          transform="translate(-3513.63 -911)"/>
+    <circle class="cls-4" cx="208" cy="266" r="4.83"/>
+    <path class="cls-6" d="M169.33 324h77.34l-8.46-33.83h-60.42L169.33 324z"/>
+    <path class="cls-7" d="M179 285.33l-1.21 4.84h60.42l-1.21-4.84h-58z"/>
+    <path class="cls-3" d="M150 314.33h116V324H150z"/>
+    <path class="cls-3"
+          d="M3596 1148h251.3v-135.33H3596V1148zm149.83-9.67v-72.5h91.83v72.5h-91.86zm91.83-82.17h-91.86v-33.83h91.83v33.83zm-232-33.83h130.5v116h-130.5v-116z"
+          transform="translate(-3513.63 -911)"/>
+    <path class="cls-8" d="M232.17 154.83H324v72.5h-91.83z"/>
+    <path class="cls-9" d="M92 111.33h130.5v116H92z"/>
+    <path class="cls-10" d="M232.17 111.33H324v33.83h-91.83z"/>
+    <path class="cls-4" d="M101.1 149.43h116v6h-116zM101.1 168.76h77.33v6H101.1zM101.1 130.1h116v6h-116z"/>
+</svg>

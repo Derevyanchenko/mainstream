@@ -1,0 +1,15 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 416 416">
+    <defs>
+        <style>.cls-1{fill:#6dbec4}.cls-2{fill:#d8d8da}.cls-3{fill:#fff}.cls-4{fill:#95989f}.cls-5{fill:#f0b14e}</style>
+    </defs>
+    <title>communicate</title>
+    <path class="cls-1"
+          d="M2940 770c0-114.87 93.13-208 208-208s208 93.13 208 208M3356 770c0 114.88-93.12 208-208 208s-208-93.12-208-208"
+          transform="translate(-2940 -562)"/>
+    <path class="cls-2" d="M67 109.3v197.4L208 208 67 109.3z"/>
+    <path class="cls-3" d="M67 306.7h282L208 208 67 306.7z"/>
+    <path class="cls-2" d="M208 208l141 98.7V109.3L208 208z"/>
+    <path class="cls-4" d="M308 138H108l100 88.75L308 138z"/>
+    <path class="cls-3" d="M349 109.3H67l141 116.33L349 109.3z"/>
+    <path class="cls-5" d="M308 138z"/>
+</svg>
