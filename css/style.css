@@ -1201,4 +1201,56 @@ body {
   .header .header__text {
     display: none;
   }
+
+  .main_form_color {
+    background: rgba(67, 72, 85, 0.15) !important;
+  }
+
+  .banner .dark-grey-text {
+    font-size: 18px;
+  }
+
+  .jq-selectbox__select-text {
+    padding: 8px 1px !important;
+    padding-bottom: 0px !important;
+    padding-right: 30px !important;
+    font-size: 14px !important;
+    text-align: left !important;
+    width: auto !important;
+    color: #ced4da !important;
+  }
+
+  .jq-selectbox__select-text:before {
+    content: '\25BC';
+    position: absolute;
+    font-size: 14px;
+    right: 0;
+    top: 9px;
+  }
+
+  .md-form {
+    position: relative;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .banner__form .card {
+    background: rgba(15, 7, 32, 0.15);
+  }
+
+  .banner {
+    padding-top: 10px;
+  }
+
+  .banner__form {
+    margin-top: 50px;
+  }
+
+  .jq-selectbox__select {
+    height: 36px;
+  }
+
+  .banner .card .md-form label {
+    font-size: 14px;
+  }
 }
