@@ -160,6 +160,10 @@ h6 {
   background-color: #05ca6b !important;
 }
 
+input {
+  color: #fff !important;
+}
+
 header {
   color: #fff;
   padding: 10px 0;
